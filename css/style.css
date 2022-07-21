@@ -1,0 +1,12 @@
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.form input,select{
+    width: 100%;
+}
+#soKetNoi{
+    width: 26%;
+}
